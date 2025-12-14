@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏰 Citadelle Studio
+# 🏰 Citadelle Labs
 
 ### *Créateurs d'événements Minecraft exceptionnels*
 
